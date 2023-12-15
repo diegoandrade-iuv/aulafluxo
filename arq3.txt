@@ -1,0 +1,1 @@
+arquivo responsavel pela func X
